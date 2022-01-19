@@ -1,0 +1,26 @@
+       {
+       "name": "MakanKuy",
+      "short_name": "Makankuy",
+      "description": "Aplikasi pencarian restaurant",
+      "background_color": "#ffffff",
+      "start_url": "/index.html",
+      "theme_color": "#fce4ec",
+      "display": "standalone",
+      "orientation": "portrait",
+      "crossorigin": "use-credentials",
+      "icons": [
+        {
+          "src": "./img/donwload2.png",
+          "sizes": "192x192",
+          "type": "image/png"
+          
+        },
+        {
+          "src": "./img/donwload1.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      
+        }
+
+      ]
+    }
